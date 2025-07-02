@@ -21,18 +21,12 @@
 
 ---
 
-### 🎯 Competitive Programming Profiles
+### 🎯 Competitive Programming Badges
 
 <p align="center">
-  <a href="https://www.codechef.com/users/naitik2043">
-    <img src="https://cp-logo.vercel.app/codechef/naitik2043?logo=true&style=for-the-badge" alt="CodeChef Rating"/>
-  </a>
-  <a href="https://leetcode.com/naitik2043/">
-    <img src="https://cp-logo.vercel.app/leetcode/naitik2043?logo=true&style=for-the-badge" alt="LeetCode Profile"/>
-  </a>
-  <a href="https://codeforces.com/profile/naitik2043">
-    <img src="https://cp-logo.vercel.app/codeforces/naitik2043?logo=true&style=for-the-badge" alt="Codeforces Profile"/>
-  </a>
+  <img src="https://cp-logo.vercel.app/codechef/naitik2043?logo=true&style=for-the-badge" alt="CodeChef Rating"/>
+  <img src="https://cp-logo.vercel.app/leetcode/naitik2043?logo=true&style=for-the-badge" alt="LeetCode Profile"/>
+  <img src="https://cp-logo.vercel.app/codeforces/naitik2043?logo=true&style=for-the-badge" alt="Codeforces Profile"/>
 </p>
 
 ---
