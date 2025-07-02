@@ -21,6 +21,22 @@
 
 ---
 
+### 🎯 Competitive Programming Profiles
+
+<p align="center">
+  <a href="https://www.codechef.com/users/naitik2043">
+    <img src="https://cp-logo.vercel.app/codechef/naitik2043?logo=true&style=for-the-badge" alt="CodeChef Rating"/>
+  </a>
+  <a href="https://leetcode.com/naitik2043/">
+    <img src="https://cp-logo.vercel.app/leetcode/naitik2043?logo=true&style=for-the-badge" alt="LeetCode Profile"/>
+  </a>
+  <a href="https://codeforces.com/profile/naitik2043">
+    <img src="https://cp-logo.vercel.app/codeforces/naitik2043?logo=true&style=for-the-badge" alt="Codeforces Profile"/>
+  </a>
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -64,11 +80,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naitik2043&show_icons=true&theme=tokyonight" alt="naitik2043 stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=naitik2043&show_icons=true&theme=tokyonight" alt="Naitik's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitik2043&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitik2043&layout=compact&theme=tokyonight" alt="Top languages used"/>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naitik2043&theme=react-dark" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naitik2043&theme=react-dark" alt="Contribution activity graph"/>
 </p>
 
 ---
