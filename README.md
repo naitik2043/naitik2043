@@ -16,7 +16,7 @@
   - 💻 **LeetCode:** Max rating **1660** 🟡  
   - 🍽 **CodeChef:** Current rating **1402 (2★)** 🌟  
   - ⚙️ **Codeforces:** Current rating **916 (Newbie)** ⚪  
-- 📘 Practicing **DSA** consistently via structured tracks on [Codelio](https://codelio.io/user/naitik2043)
+- 📘 Practicing **DSA** consistently via structured tracks on [Codolio](https://codolio.com/profile/Naitik_Gupta)
 - 🌱 Currently learning **JavaScript** to add interactivity to my web projects
 - ✨ I love combining **culture, creativity, and clean code** in everything I build
 
@@ -29,10 +29,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA-Important-FF5722?style=for-the-badge"/>
-  <a href="https://codelio.io/user/naitik2043">
-    <img src="https://img.shields.io/badge/DSA%20Track-Codelio-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/DSA-Tracked_on_Codolio-blueviolet?style=for-the-badge"/>
 </p>
 
 ---
