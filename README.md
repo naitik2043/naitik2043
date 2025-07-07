@@ -32,6 +32,10 @@
 
 ### 🚀 Featured Projects
 
+- 🧠 [**StudySync – Educational Landing Page**](https://github.com/naitik2043/StudySync-landing-page)  
+  A fully responsive educational landing page with CSS-only dark mode, modal popups, testimonial carousel, and more — all without JavaScript.  
+  ![Preview](https://github.com/naitik2043/StudySync-landing-page/blob/main/preview.png)
+
 - 📰 [**TechSphere Blog Grid**](https://github.com/naitik2043/techsphere-blog-grid)  
   A responsive dark-themed blog layout with 12 animated cards, tag badges, and hover effects.  
   ![Preview](https://github.com/naitik2043/techsphere-blog-grid/blob/main/preview.png)
@@ -86,4 +90,4 @@
 
 ---
 
-> “Code with culture. Create with heart.” 💛
+> “Code with culture. Create with heart.” 💛  
