@@ -9,9 +9,9 @@
 - 🎓 B.Tech student at **KIET Group of Institutions, Ghaziabad** (Batch 2028)  
 - 💻 Passionate about creating clean & responsive **frontend interfaces**  
 - ⚔️ Active in **Competitive Programming**  
-  - 💻 **LeetCode:** Max rating **1660** 🟡  
+  - 💻 **LeetCode:** Max rating **1741** 🟡  
   - 🍽 **CodeChef:** 1402 (2★) 🌟  
-  - ⚙️ **Codeforces:** 916 (Newbie) ⚪  
+  - ⚙️ **Codeforces:** 1020 (Newbie) ⚪  
 - 📘 Consistently practicing **DSA** via [Codolio](https://codolio.com/profile/Naitik_Gupta)  
 - 🌱 Currently learning **JavaScript** to add interactivity to my web projects  
 - ✨ Love combining **culture, creativity & clean code** in my projects  
