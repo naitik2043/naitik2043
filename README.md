@@ -1,10 +1,10 @@
 <!-- 🔥 GitHub Profile README for Naitik Gupta -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Naitik+Gupta;Frontend+Developer+🚀;Competitive+Programmer+⚔️;Creative+UI+Builder+🎨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Naitik+Gupta;Frontend+Developer+🚀;Competitive+Programmer+⚔️;Future+Full+Stack+Developer+🌐" />
 </h1>
 
-<h3 align="center">Code. Create. Compete. 🇮🇳</h3>
+<h3 align="center">Code • Create • Compete • Scale 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=naitik2043&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
@@ -21,10 +21,12 @@
 ## 🧠 About Me
 
 🎓 B.Tech CSE @ **KIET Group of Institutions, Ghaziabad** (2024 – 2028)  
-💻 Building **modern, responsive & user-focused web interfaces**  
-⚔️ Passionate about **DSA & Competitive Programming**  
-🌱 Currently learning **JavaScript → DOM → ES6 → Real Projects**  
-✨ Love blending **culture, creativity & clean UI**
+💻 Frontend developer building **modern, responsive & user-focused interfaces**  
+⚔️ Strong in **DSA & Competitive Programming**  
+🧩 Creating **interactive web apps using JavaScript**  
+⚛️ Currently moving towards **React development**  
+🌐 Next goal: **Backend development & Full Stack architecture**  
+✨ Passionate about **clean UI, scalable systems & performance**
 
 ---
 
@@ -36,7 +38,7 @@
   <img src="https://img.shields.io/badge/Codeforces-1020-blue?style=for-the-badge&logo=codeforces"/>
 </p>
 
-<p align="center">📊 Consistent DSA practice on Codolio</p>
+<p align="center">📊 Consistent DSA practice with daily problem solving</p>
 
 ---
 
@@ -47,8 +49,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solver-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Frontend-Responsive%20Design-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solver-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/UI-Creative%20Layouts-orange?style=for-the-badge"/>
 </p>
 
@@ -84,8 +86,8 @@
 🔹 Advanced DSA for contests  
 🔹 Building real-world interactive projects  
 
-🧭 **Next Targets:**  
-PWA • SEO • Performance optimization • React ⚛️
+🎯 **Next Learning Roadmap:**  
+⚛️ React → 🌐 Backend → 🗄️ Databases → 🔗 Full Stack Development
 
 ---
 
@@ -119,4 +121,4 @@ PWA • SEO • Performance optimization • React ⚛️
 
 ## ✨ Developer Philosophy
 
-> 💛 *Code with culture. Build with purpose. Design with heart.*
+> 💛 *Code with culture • Build with purpose • Design with scalability*
