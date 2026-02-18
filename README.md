@@ -1,4 +1,3 @@
-<!-- Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e73df,100:1cc88a&height=220&section=header&text=Naitik%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
