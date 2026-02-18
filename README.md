@@ -1,34 +1,46 @@
-<!-- GitHub Profile README for Naitik Gupta -->
+<!-- 🔥 GitHub Profile README for Naitik Gupta -->
 
-<h1 align="center">Hi 👋, I'm Naitik Gupta</h1>
-<h3 align="center">🚀 Frontend Developer | ⚔️ Competitive Programmer | 🎨 Creative UI Builder 🇮🇳</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Naitik+Gupta;Frontend+Developer+🚀;Competitive+Programmer+⚔️;Creative+UI+Builder+🎨" />
+</h1>
+
+<h3 align="center">Code. Create. Compete. 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naitik2043&label=Profile%20views&color=0e75b6&style=flat" alt="naitik2043" />
+  <img src="https://komarev.com/ghpvc/?username=naitik2043&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/naitik2043?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/stars/naitik2043?style=for-the-badge&color=orange"/>
 </p>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750704-6b1c9e6c-52d9-4d25-9b1f-ff7f5f6e5c5f.gif" width="100%">
 
 ---
 
 ## 🧠 About Me
 
 🎓 B.Tech CSE @ **KIET Group of Institutions, Ghaziabad** (2024 – 2028)  
-💻 Building **clean, responsive & user-focused web interfaces**  
+💻 Building **modern, responsive & user-focused web interfaces**  
 ⚔️ Passionate about **DSA & Competitive Programming**  
-🌱 Currently mastering **JavaScript → DOM → ES6 → Real Projects**  
-✨ Blending **culture + creativity + code** to craft meaningful UI  
+🌱 Currently learning **JavaScript → DOM → ES6 → Real Projects**  
+✨ Love blending **culture, creativity & clean UI**
 
 ---
 
 ## 🏆 Competitive Programming
 
-- 🟡 **LeetCode:** 1741 (Top ~12%)  
-- 🌟 **CodeChef:** 1402 (2★)  
-- ⚪ **Codeforces:** 1020  
-- 📊 Daily DSA tracking on **Codolio**
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-1741-yellow?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/CodeChef-2★-brown?style=for-the-badge&logo=codechef"/>
+  <img src="https://img.shields.io/badge/Codeforces-1020-blue?style=for-the-badge&logo=codeforces"/>
+</p>
+
+<p align="center">📊 Consistent DSA practice on Codolio</p>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚒️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode" />
@@ -45,42 +57,24 @@
 ## 🚀 Featured Projects
 
 ### 🧠 StudySync – Educational Landing Page  
-🔹 CSS-only dark mode  
-🔹 Modal popups & testimonial carousel  
-🔹 Fully responsive modern layout  
-👉 https://github.com/naitik2043/StudySync-landing-page
-
----
+✨ CSS-only dark mode • Modal popups • Testimonial carousel  
+🔗 https://github.com/naitik2043/StudySync-landing-page  
 
 ### 📰 TechSphere – Animated Blog Grid  
-🔹 12 animated cards  
-🔹 Tag filtering UI  
-🔹 Dark theme with hover effects  
-👉 https://github.com/naitik2043/techsphere-blog-grid
-
----
+✨ 12 animated cards • Tag filtering UI • Dark theme  
+🔗 https://github.com/naitik2043/techsphere-blog-grid  
 
 ### 🍮 Gupta Ji Ki Mitti Rasoi  
-🔹 Tribute to Indian tradition through UI  
-🔹 Pure HTML & CSS  
-🔹 Cultural + aesthetic design  
-👉 https://github.com/naitik2043/gupta-ji-mitti-rasoi
-
----
+✨ Culture-inspired UI • Pure HTML & CSS  
+🔗 https://github.com/naitik2043/gupta-ji-mitti-rasoi  
 
 ### 💖 Helping Hearts – UPI Donation Card  
-🔹 Minimal UI  
-🔹 QR-based payment flow  
-🔹 Real-world use case design  
-👉 https://github.com/naitik2043/helping-hearts
-
----
+✨ Minimal UI • Real-world payment flow  
+🔗 https://github.com/naitik2043/helping-hearts  
 
 ### 🛍️ ConnectKart – E-Commerce Frontend  
-🔹 Product grid layout  
-🔹 Modern responsive design  
-🔹 Clean shopping UI  
-👉 https://github.com/naitik2043/ConnectKart
+✨ Responsive product layout • Clean shopping UI  
+🔗 https://github.com/naitik2043/ConnectKart  
 
 ---
 
