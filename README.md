@@ -61,12 +61,27 @@ Recursion • Backtracking • Trees • Graphs • STL
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,redux,tailwind,git,github,vscode" />
 </p>
 
 ---
 
 ## 🏗️ Projects
+
+### 🔹 PasteApp – Smart Paste Manager
+
+🚀 **Live Demo:** https://paste-app-wine.vercel.app/  
+💻 **GitHub:** https://github.com/naitik2043/Paste-App  
+
+- Create, edit & manage pastes with a clean UI  
+- 📌 Pin, search & sort functionality  
+- 🌗 Dark mode support  
+- 📊 View tracking system  
+- ⚡ Optimized with Redux Toolkit for scalable state management  
+
+**Tech:** React • Redux Toolkit • Tailwind CSS • Vite
+
+---
 
 ### 🔹 StudySync – Educational Platform UI
 
