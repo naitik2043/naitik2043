@@ -5,18 +5,33 @@
 <h1 align="center">Hi 👋, I'm Naitik Gupta</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=1CC88A&center=true&vCenter=true&width=600&lines=DSA+Enthusiast+%7C+1700%2B+LeetCode;700%2B+Problems+Solved;Frontend+Developer;Future+Software+Engineer" />
+  Aspiring Software Engineer • Frontend Developer • DSA Enthusiast
 </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=1CC88A&center=true&vCenter=true&width=600&lines=1700%2B+LeetCode+Rating;700%2B+DSA+Problems+Solved;Building+Scalable+React+Applications;Targeting+SWE+Internships+2026" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
 🎓 B.Tech CSE @ **KIET Group of Institutions (2024 – 2028)**  
-🧠 **DSA-first developer** with strong problem-solving mindset  
-🏆 **1700+ LeetCode rating | 700+ DSA problems solved**  
-⚡ Building **performance-focused & scalable frontend systems**  
-🎯 Target: **Software Engineering Internships (2026)**  
+🧠 Strong foundation in **Data Structures & Algorithms**  
+⚛️ Focused on building **scalable, performance-oriented React applications**  
+🎯 Target: **Software Engineering Internship (Summer 2026)**  
+
+I enjoy designing structured systems, optimizing performance, and writing clean, maintainable code.
+
+---
+
+## 🏆 Highlights
+
+- ⭐ 1700+ LeetCode Rating  
+- 🧩 700+ DSA Problems Solved  
+- ⚛️ Built **React Learning Lab** — a structured 14-topic React mastery roadmap  
+- 🚀 Developed scalable applications using Redux Toolkit  
+- 📈 Consistent contributor with a strong learning roadmap  
 
 ---
 
@@ -43,18 +58,10 @@
 
 ✔ Pattern-based DSA thinking  
 ✔ Complexity analysis & optimization  
-✔ Clean & modular UI architecture  
-✔ Consistent daily problem solving  
+✔ Structured React architecture  
+✔ Scalable state management (Redux)  
 ✔ Performance-first development  
-
----
-
-## 🧠 DSA Expertise
-
-Arrays • Strings • Binary Search • Sliding Window • Two Pointers  
-Recursion • Backtracking • Trees • Graphs • STL  
-
-📌 Structured **pattern-based DSA repository**
+✔ Clean & modular UI design  
 
 ---
 
@@ -66,58 +73,48 @@ Recursion • Backtracking • Trees • Graphs • STL
 
 ---
 
-## 🏗️ Projects
+## 🏗️ Featured Projects
 
-### 🔹 PasteApp – Smart Paste Manager
+### ⚛️ React Learning Lab (Flagship Repository)
 
-🚀 **Live Demo:** https://paste-app-wine.vercel.app/  
-💻 **GitHub:** https://github.com/naitik2043/Paste-App  
+💻 GitHub: https://github.com/naitik2043/react-lab  
+
+A structured 14-topic React mastery roadmap built through hands-on mini projects.
+
+- Progressive learning flow (Basics → Advanced)
+- Core Hooks (useState, useEffect, useRef)
+- Advanced Hooks (useMemo, useCallback, useContext)
+- State Lifting & component architecture
+- React Hook Form integration
+- Client-side routing with React Router
+- Global state management with Redux
+- Performance-focused implementation
+
+**Tech:** React • Redux • React Router • React Hook Form • Vite
+
+---
+
+### 🚀 PasteApp – Smart Paste Manager
+
+Live: https://paste-app-wine.vercel.app/  
+GitHub: https://github.com/naitik2043/Paste-App  
 
 - Create, edit & manage pastes with a clean UI  
-- 📌 Pin, search & sort functionality  
-- 🌗 Dark mode support  
-- 📊 View tracking system  
-- ⚡ Optimized with Redux Toolkit for scalable state management  
+- Pin, search & sort functionality  
+- Dark mode support  
+- Optimized with Redux Toolkit for scalable state management  
 
 **Tech:** React • Redux Toolkit • Tailwind CSS • Vite
 
 ---
 
-### 🔹 StudySync – Educational Platform UI
+### 🎓 StudySync – Educational Platform UI
 
-🚀 **Live Demo:** https://github.com/naitik2043/StudySync-landing-page  
-💻 **GitHub:** https://github.com/naitik2043/StudySync-landing-page  
+GitHub: https://github.com/naitik2043/StudySync-landing-page  
 
 - Fully responsive multi-section layout  
-- 🌗 CSS dark mode with zero JavaScript  
-- ⚡ Optimized structure for scalability  
-- 📱 Mobile-first design approach  
-
-**Tech:** HTML • CSS • JavaScript
-
----
-
-### 🔹 TechSphere – Dynamic Blog Interface
-
-🚀 **Live Demo:** https://github.com/naitik2043/techsphere-blog-grid  
-💻 **GitHub:** https://github.com/naitik2043/techsphere-blog-grid  
-
-- Animated card grid with category filtering  
-- Component-based architecture  
-- Clean state & layout management  
-
-**Tech:** HTML • CSS • JavaScript
-
----
-
-### 🔹 ConnectKart – E-Commerce Frontend
-
-🚀 **Live Demo:** https://github.com/naitik2043/ConnectKart  
-💻 **GitHub:** https://github.com/naitik2043/ConnectKart  
-
-- Responsive product listing system  
-- Real-world UX patterns  
-- Modular & reusable UI components  
+- CSS-based dark mode  
+- Clean and scalable structure  
 
 **Tech:** HTML • CSS • JavaScript
 
@@ -129,45 +126,33 @@ Recursion • Backtracking • Trees • Graphs • STL
   <img src="https://github-readme-stats.vercel.app/api?username=naitik2043&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naitik2043&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitik2043&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/naitik2043/naitik2043/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🛣️ Engineering Roadmap
 
-### 🔹 Near Term
-- Production-grade **React projects**
-- Advanced **DSA mastery**
+### 🔹 Current Focus
+- Advanced React patterns  
+- Performance optimization  
+- Production-grade UI systems  
 
-### 🔹 Mid Term
-- **Node.js & backend development**
-- Database design & integration
-
-### 🔹 Long Term
-- System Design
-- Scalable distributed systems
+### 🔹 Next Phase
+- Backend development (Node.js)  
+- Database integration  
+- System Design fundamentals  
 
 ---
 
 ## 🤝 Open To Opportunities
 
-💼 **Software Engineering Internships (Summer 2026)**  
+💼 Software Engineering Internships (Summer 2026)  
 🌍 Remote | On-site | Hybrid  
 
 ---
 
-## ⚡ Philosophy
+## ⚡ Engineering Philosophy
 
-> Build for scale.  
+> Build for scalability.  
 > Optimize for performance.  
-> Write code engineers trust.
+> Write code engineers can trust.
