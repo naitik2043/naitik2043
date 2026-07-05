@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e73df,100:1cc88a&height=240&section=header&text=Naitik%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
@@ -310,7 +309,6 @@ Competitive programming has helped me build strong analytical and problem-solvin
 
 ---
 
-```markdown
 # 🏗️ Featured Projects
 
 ## 🚀 React Learning Lab (Flagship Repository)
@@ -518,7 +516,6 @@ Currently I am actively:
 
 ---
 
-```markdown
 # 🏆 Achievements
 
 ### 💻 Competitive Programming
@@ -747,7 +744,6 @@ Every project, every bug, and every challenge is an opportunity to become a bett
 
 ---
 
-````markdown id="m4k9xp"
 # 🤝 Let's Connect
 
 <p align="center">
@@ -814,7 +810,6 @@ If you have an interesting idea or project, feel free to connect with me!
 
 # 📊 Quick Overview
 
-```text
 🎓 B.Tech CSE Student
 🏫 KIET Group of Institutions
 
@@ -883,15 +878,6 @@ Software Engineering Internship (2026)
 
 ---
 
-# 📈 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=naitik2043&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
 
 # 💙 Thanks for Visiting!
 
