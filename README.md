@@ -431,48 +431,6 @@ Currently I am actively:
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=naitik2043&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitik2043&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naitik2043&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=naitik2043&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naitik2043&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 # 📌 Featured Repositories
 
 | Repository | Description |
@@ -736,62 +694,6 @@ Outside of coding, I enjoy:
 
 ---
 
-# 💬 Personal Motto
-
-> **"Keep Learning. Keep Building. Keep Improving."**
-
-Every project, every bug, and every challenge is an opportunity to become a better engineer.
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="mailto:naitik.2428cs2043@kiet.edu">
-<img src="https://img.shields.io/badge/Email-naitik.2428cs2043%40kiet.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/naitik-gupta-81700233a">
-<img src="https://img.shields.io/badge/LinkedIn-Naitik%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/naitik2043">
-<img src="https://img.shields.io/badge/GitHub-naitik2043-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://naitikgupta.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🌐 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-1700%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/">
-<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-2★-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://codolio.com/">
-<img src="https://img.shields.io/badge/Codolio-Profile-16A34A?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
 # ❤️ Open to Collaborate
 
 I'm always excited to collaborate on:
@@ -805,30 +707,6 @@ I'm always excited to collaborate on:
 - 🎓 Student Developer Communities
 
 If you have an interesting idea or project, feel free to connect with me!
-
----
-
-# 📊 Quick Overview
-
-🎓 B.Tech CSE Student
-🏫 KIET Group of Institutions
-
-💻 Frontend Developer
-🧩 DSA Enthusiast
-📊 Data Science Learner
-🤖 Machine Learning Learner
-
-⭐ 1700+ LeetCode Rating
-🧩 700+ DSA Problems Solved
-
-🌱 Currently Learning
-• Backend Development
-• Data Analytics
-• Machine Learning
-• System Design
-
-🎯 Goal
-Software Engineering Internship (2026)
 ---
 
 # ⚡ Engineering Philosophy
@@ -863,18 +741,6 @@ Software Engineering Internship (2026)
 - 🤖 I'm fascinated by Machine Learning and AI.
 - 🌱 I believe consistency beats motivation.
 - ☕ Debugging with music is one of my favorite coding rituals.
-
----
-
-# 📅 2026 Milestones
-
-- 🎯 1000+ DSA Problems
-- ⭐ 1800+ LeetCode Rating
-- 🚀 Build Production-Level Full Stack Projects
-- 🤖 Complete Multiple Machine Learning Projects
-- 📊 Master Data Analytics
-- ☁️ Learn AWS & Cloud Fundamentals
-- 💼 Secure a Software Engineering Internship
 
 ---
 
