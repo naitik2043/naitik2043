@@ -1,117 +1,130 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e73df,100:1cc88a&height=240&section=header&text=Naitik%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Naitik%20Gupta&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20|%20Frontend%20Developer%20|%20Data%20Science%20Enthusiast&descAlignY=58&descSize=18"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Naitik Gupta</h1>
 
 <h3 align="center">
-Software Engineer • Frontend Developer • DSA Enthusiast • Data Science Enthusiast • Machine Learning Learner
+Software Engineer • Frontend Developer • AI & Data Science Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=1CC88A&center=true&vCenter=true&width=850&lines=Software+Engineer;Frontend+Developer;1700%2B+LeetCode+Rating;700%2B+DSA+Problems+Solved;React+Developer;Data+Science+%26+Machine+Learning;Always+Learning+New+Technologies" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Frontend+Developer;Python+Developer;Machine+Learning+Enthusiast;AI+%26+LLM+Explorer;700%2B+DSA+Problems+Solved;1700%2B+LeetCode+Rating;Always+Learning+Something+New"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<a href="mailto:naitik.2428cs2043@kiet.edu">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/naitik-gupta-81700233a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/naitik2043">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://naitikgupta.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💫 About Me
+
+```python
+class NaitikGupta:
+
+    def __init__(self):
+        self.role = "Software Engineering Student"
+        self.education = "B.Tech CSE @ KIET Group of Institutions"
+        self.tech_stack = [
+            "React",
+            "Python",
+            "Flask",
+            "Machine Learning",
+            "AWS"
+        ]
+        self.current_focus = "Full Stack Development & AI"
+        self.open_to = "Software Engineering Internships"
+```
+
+- 💻 Passionate about building scalable and user-friendly software.
+- ⚛️ Frontend Developer with **React, Tailwind CSS, and JavaScript**.
+- 🌐 Currently learning **Backend Development** using **Flask** and **Express.js**.
+- 📊 Exploring **Data Science, Machine Learning, AI, and Large Language Models (LLMs)**.
+- ☁️ **AWS Certified Cloud Practitioner**.
+- 🧩 Solved **700+ DSA Problems** with a **1700+ LeetCode Rating**.
+- 🚀 Always learning, building real-world projects, and improving every day.
+- 🤝 Open to **Software Engineering Internship** opportunities.
+
+---
+
+# 🚀 Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,mysql&perline=6"/>
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,redux&perline=4"/>
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask&perline=3"/>
+
+### Data Science & AI
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn&perline=2"/>
+
+**Libraries:** NumPy • Pandas • Matplotlib • Seaborn
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=naitik2043&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=naitik2043&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <a href="mailto:naitik.2428cs2043@kiet.edu">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://github.com/naitik2043">
-    <img src="https://img.shields.io/badge/GitHub-naitik2043-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/naitik-gupta-81700233a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://naitikgupta.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel"/>
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitik2043&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🚀 About Me
-
-🎓 **B.Tech in Computer Science & Engineering**  
-📍 **KIET Group of Institutions (2024 – 2028)**
-
-I'm a passionate **Software Engineering** student who enjoys building scalable applications and solving complex algorithmic problems.
-
-My primary interests include:
-
-- 💻 Software Engineering
-- ⚛️ Frontend Development
-- 🧩 Data Structures & Algorithms
-- 📊 Data Science & Analytics
-- 🤖 Machine Learning
-- 🌐 Backend Development
-
-I believe in writing **clean, scalable, and maintainable code** while continuously learning modern technologies and building impactful projects.
-
-🎯 **Currently seeking Software Engineering, Frontend Development, Data Science, Data Analytics, and Machine Learning internship opportunities.**
-
----
-
-# 🏆 Highlights
-
-- ⭐ **1700+ LeetCode Rating**
-- 🧩 **700+ DSA Problems Solved**
-- 🚀 Built multiple React applications using Redux Toolkit
-- 📊 Learning Data Analytics with Python
-- 🤖 Exploring Machine Learning using Scikit-learn
-- 💻 Strong problem-solving and analytical thinking
-- 🌱 Continuous learner with an active GitHub profile
-
----
-
-# 🧩 Data Structures & Algorithms
-
-Competitive programming has helped me build strong analytical and problem-solving skills.
-
-### 📌 DSA Achievements
-
-- ⭐ 1700+ LeetCode Rating
-- 🧩 700+ Problems Solved
-- ⚡ Strong grasp of Time & Space Complexity
-- 💡 Focus on writing optimized and scalable solutions
-
-### 📚 Topics Covered
-
-- Arrays
-- Strings
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Binary Search Trees
-- Heaps
-- Graphs
-- Hashing
-- Binary Search
-- Sliding Window
-- Two Pointers
-- Prefix Sum
-- Greedy Algorithms
-- Recursion
-- Backtracking
-- Dynamic Programming
-- Bit Manipulation
-
----
-
-# 🏅 Coding Profiles
+# 🏆 Competitive Programming
 
 <p align="center">
 
 <a href="https://leetcode.com/u/Naitik_Gupta/">
-<img src="https://img.shields.io/badge/LeetCode-1700%2B-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-1700%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://codeforces.com/profile/Naitik_Gupta">
-<img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-blue?style=for-the-badge&logo=codeforces"/>
+<img src="https://img.shields.io/badge/Codeforces-Newbie-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 <a href="https://www.codechef.com/users/naitik_gupta">
-<img src="https://img.shields.io/badge/CodeChef-2★-brown?style=for-the-badge&logo=codechef"/>
+<img src="https://img.shields.io/badge/CodeChef-2★-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 <a href="https://codolio.com/profile/Naitik_Gupta">
@@ -120,645 +133,210 @@ Competitive programming has helped me build strong analytical and problem-solvin
 
 </p>
 
----
+<div align="center">
 
-# 💻 Tech Stack
+| 🧩 DSA Problems | ⭐ LeetCode | 💻 Focus |
+|:---------------:|:----------:|:--------:|
+| **700+** | **1700+ Rating** | Software Engineering • AI • Data Science |
 
-## 👨‍💻 Programming Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css" />
-</p>
-
-**Languages**
-
-- C++
-- Python
-- JavaScript (ES6+)
-- HTML5
-- CSS3
+</div>
 
 ---
 
-## ⚛️ Frontend Development
+# 🚀 Featured Projects
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite" />
-</p>
+<table>
+<tr>
 
-### Technologies
+<td width="50%">
 
-- React.js
-- Redux Toolkit
-- React Router
-- React Hook Form
-- Tailwind CSS
-- Vite
-- Responsive Web Design
-- Component-Based Architecture
+## 📊 Data Science Journey
 
----
+Comprehensive repository documenting my learning journey through **Data Science, Machine Learning, Deep Learning, and AI** with practical notebooks and real-world projects.
 
-## 🔧 Backend Development
+### ⚡ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+Python • Pandas • NumPy • Matplotlib • Scikit-Learn • TensorFlow
 
-### Technologies
+<br>
 
-- Node.js
-- Express.js
-- REST APIs
-- API Integration
-- JSON
+<a href="https://github.com/naitik2043/data-science-journey">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
----
+</td>
 
-## 🗄️ Database
+<td width="50%">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+## 🏫 ReUnix
 
-- MySQL *(Learning)*
-- MongoDB *(Learning)*
+A Full Stack Alumni Connection Platform that helps students connect with alumni for mentorship, networking and career opportunities.
 
----
+### ⚡ Tech Stack
 
-## 📊 Data Science & Analytics
+React • Node.js • Express • MongoDB
 
-### Libraries & Tools
+<br>
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-- Google Colab
+<a href="https://github.com/naitik2043/ReUnix">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
-### Concepts
+</td>
 
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Statistics
-- Data Preprocessing
+</tr>
 
----
+<tr>
 
-## 🤖 Machine Learning
+<td width="50%">
 
-### Libraries
+## 🌐 Portfolio Website
 
-- Scikit-learn
+Modern responsive portfolio built with React showcasing projects, achievements and technical skills.
 
-### Concepts
+### ⚡ Tech Stack
 
-- Regression
-- Classification
-- Decision Trees
-- Train-Test Split
-- Model Evaluation
-- Feature Engineering
-- Machine Learning Fundamentals
+React • Tailwind CSS • Framer Motion
 
----
+<br>
 
-## 🛠️ Tools & Technologies
+<a href="https://naitikgupta.vercel.app">
+<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel"/>
+</a>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
+<a href="https://github.com/naitik2043/Portfolio">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
-- Git
-- GitHub
-- VS Code
-- Postman
-- npm
-- Jupyter Notebook
-- Google Colab
+</td>
 
----
+<td width="50%">
 
-# 💪 Core Skills
+## 📋 PasteApp
 
-### 👨‍💻 Software Engineering
+A modern productivity app for creating, searching and organizing text snippets with Redux Toolkit.
 
-- Object-Oriented Programming
-- Clean Code
-- Software Development
-- Problem Solving
-- Modular Architecture
+### ⚡ Tech Stack
 
-### ⚛️ Frontend Development
+React • Redux Toolkit • Tailwind CSS • Vite
 
-- React.js
-- Redux Toolkit
-- Responsive UI
-- State Management
-- API Integration
-- Performance Optimization
+<br>
 
-### 🧩 Data Structures & Algorithms
-
-- Competitive Programming
-- Algorithm Design
-- Complexity Analysis
-- Pattern Recognition
-- Optimization Techniques
-
-### 📊 Data Science
-
-- Data Analysis
-- Data Cleaning
-- Data Visualization
-- EDA
-- Statistical Analysis
-
-### 🤖 Machine Learning
-
-- Regression
-- Classification
-- Decision Trees
-- Feature Engineering
-- Model Evaluation
-
-### 🤝 Soft Skills
-
-- Leadership
-- Teamwork
-- Communication
-- Time Management
-- Adaptability
-- Continuous Learning
-
----
-
-# 📚 Currently Learning
-
-- Advanced React Patterns
-- Backend Development (Node.js & Express)
-- SQL & Database Design
-- Data Analytics
-- Machine Learning
-- Deep Learning Fundamentals
-- System Design
-- Cloud Computing (AWS)
-
----
-
-# 🏗️ Featured Projects
-
-## 🚀 React Learning Lab (Flagship Repository)
-
-<p align="left">
-  <a href="https://github.com/naitik2043/react-lab">
-    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
-A structured **React Learning Roadmap** designed to master React from beginner to advanced concepts through hands-on mini projects.
-
-### ✨ Highlights
-
-- 📚 14 Structured Learning Modules
-- ⚛️ React Fundamentals
-- 🎣 React Hooks
-- 🧩 Component-Based Architecture
-- 🌐 React Router
-- 📝 React Hook Form
-- 📦 Redux Toolkit
-- 🚀 Performance Optimization
-- 📱 Responsive UI Development
-- 🔥 Best Practices
-
-**Tech Stack**
-
-`React` • `Redux Toolkit` • `React Router` • `React Hook Form` • `Tailwind CSS` • `Vite`
-
----
-
-## 📋 PasteApp – Smart Paste Manager
-
-<p align="left">
-
-<a href="https://paste-app-wine.vercel.app">
-<img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel"/>
+<a href="https://paste-app-wine.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
 <a href="https://github.com/naitik2043/Paste-App">
-<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+</td>
 
-A modern paste management application focused on **productivity**, **clean UI**, and **state management**.
+</tr>
 
-### Features
-
-- ✍️ Create Paste
-- 📝 Edit Paste
-- 📌 Pin Important Notes
-- 🔍 Search
-- 📑 Sort
-- 🌙 Dark Mode
-- 📱 Responsive UI
-- ⚡ Redux Toolkit
-
-**Tech Stack**
-
-`React` • `Redux Toolkit` • `Tailwind CSS` • `Vite`
+</table>
 
 ---
 
-## 🎓 StudySync
+# 🏅 Achievements
 
-<p align="left">
+- 🏆 Solved **700+ DSA Problems** across multiple coding platforms.
+- ⭐ Achieved a **1700+ LeetCode Rating**.
+- 💻 Built **Full Stack, Frontend, and AI/Data Science** projects.
+- ☁️ Earned the **AWS Certified Cloud Practitioner** certification.
+- 🚀 Continuously learning **AI, Machine Learning, Cloud, and Modern Web Technologies**.
 
-<a href="https://github.com/naitik2043/StudySync-landing-page">
-<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
-</a>
+---
+# 📜 Certifications
 
-</p>
+- ☁️ **AWS Certified Cloud Practitioner** — AWS (2026) :contentReference[oaicite:0]{index=0}
+- 📊 **The Ultimate Job Ready Data Science Course** — CodeWithHarry
+- 🗄️ **Database Programming with SQL** — Oracle Academy (2025) :contentReference[oaicite:1]{index=1}
+- 🗃️ **SQL (Basic)** — HackerRank
+- 💻 **ECMAScript (ES6) JavaScript** — Infosys Springboard (2026) :contentReference[oaicite:2]{index=2}
+- 🐧 **Red Hat Training: Getting Started with Linux Fundamentals** — Red Hat Academy (2025) :contentReference[oaicite:3]{index=3}
+- 🌐 **Networking Essentials** — Cisco Networking Academy (2026) :contentReference[oaicite:4]{index=4}
+- 🗣️ **Pearson MePro Level 8 (Advanced)** — Pearson (2024) :contentReference[oaicite:5]{index=5}
+---
 
-A modern educational landing page showcasing responsive frontend development and beautiful UI design.
+# 🌱 Currently Exploring
 
-### Features
+<div align="center">
 
-- Responsive Layout
-- CSS Animations
-- Dark Mode
-- Clean Design
-- Optimized Performance
+| 🌐 Backend | 🤖 AI | ☁️ Cloud | 🏗️ System |
+|------------|-------|----------|------------|
+| Flask | LangChain | AWS | System Design |
+| Express.js | RAG | Docker | Microservices |
 
-**Tech Stack**
-
-`HTML` • `CSS` • `JavaScript`
+</div>
 
 ---
 
-## 📊 Data Science Repository
-
-A growing collection of notebooks and projects covering:
-
-- 🐍 Python
-- 📊 NumPy
-- 🐼 Pandas
-- 📈 Matplotlib
-- 📉 Seaborn
-- 📊 Data Visualization
-- 🧹 Data Cleaning
-- 📚 Statistics
-- 🤖 Machine Learning
-- 📑 Exploratory Data Analysis (EDA)
-
----
-
-# 🌟 Open Source & Learning
-
-I believe in **learning by building**.
-
-Currently I am actively:
-
-- 🚀 Building real-world projects
-- 📚 Learning modern technologies
-- 🤝 Contributing to GitHub regularly
-- 💻 Practicing DSA daily
-- 📊 Exploring Data Science & Machine Learning
-- 🌱 Improving software engineering skills
-
----
-
-# 📌 Featured Repositories
-
-| Repository | Description |
-|------------|-------------|
-| ⚛️ React Learning Lab | Complete React roadmap from basics to advanced |
-| 📋 PasteApp | Smart paste manager using React & Redux Toolkit |
-| 🎓 StudySync | Responsive educational landing page |
-| 📊 Data Science | Python, Pandas, NumPy, ML & EDA notebooks |
-| 🤖 Machine Learning | ML algorithms and hands-on projects |
-| 🧩 DSA Solutions | Competitive Programming & LeetCode solutions |
-
----
-
-# 📈 Coding Platforms
+# 📈 GitHub Activity
 
 <p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naitik2043&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:naitik.2428cs2043@kiet.edu">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/naitik-gupta-81700233a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/naitik2043">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://naitikgupta.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
 
 <a href="https://leetcode.com/u/Naitik_Gupta/">
-<img src="https://img.shields.io/badge/LeetCode-1700%2B-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://codeforces.com/profile/Naitik_Gupta">
-<img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-blue?style=for-the-badge&logo=codeforces"/>
-</a>
-
-<a href="https://www.codechef.com/users/naitik_gupta">
-<img src="https://img.shields.io/badge/CodeChef-2★-brown?style=for-the-badge&logo=codechef"/>
-</a>
-
-<a href="https://codolio.com/profile/Naitik_Gupta">
-<img src="https://img.shields.io/badge/Codolio-Profile-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote I Believe In
+# 🎯 2026 Roadmap
 
-> **"Consistency beats intensity. Small improvements every day lead to extraordinary results."**
+<div align="center">
 
----
+| Goal | Progress |
+|------|----------|
+| 🧩 1000+ DSA Problems | 🔄 In Progress |
+| ⭐ 1900+ LeetCode Rating | 🔄 In Progress |
+| 🤖 Advanced Machine Learning | 🔄 In Progress |
+| 🧠 AI & LLM Applications | 🔄 In Progress |
+| ☁️ AWS Cloud | 🔄 In Progress |
+| 🏗️ System Design | 🔄 In Progress |
+| 🌍 Open Source Contributions | 🔄 In Progress |
+| 💼 Software Engineering Internship | 🎯 Target |
 
-# 🏆 Achievements
-
-### 💻 Competitive Programming
-
-- ⭐ Achieved **1700+ LeetCode Rating**
-- 🧩 Solved **700+ Data Structures & Algorithms problems**
-- 🚀 Strong understanding of problem-solving and algorithm optimization
-- 📈 Regularly participate in coding contests and practice sessions
-
----
-
-### 🚀 Development
-
-- ⚛️ Built multiple responsive web applications using **React.js**
-- 📦 Implemented scalable state management using **Redux Toolkit**
-- 🎨 Developed modern, responsive UIs with **Tailwind CSS**
-- 🌐 Built and deployed projects using **Vercel**
+</div>
 
 ---
 
-### 📊 Data Science Journey
+<div align="center">
 
-Currently exploring:
+## 🤝 Let's Build Something Amazing Together!
 
-- Data Analysis
-- Data Visualization
-- Machine Learning
-- Statistics
-- Exploratory Data Analysis (EDA)
+⭐ Thanks for visiting my profile.
 
-using the Python ecosystem.
+I'm always excited to collaborate on Software Engineering, AI, and Open Source projects.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
-# 👨‍💼 Leadership & Responsibilities
-
-## 🎨 Graphics Head — ISTE Student Chapter
-
-- Designed promotional graphics and event posters
-- Worked with teams to organize technical events
-- Managed visual branding for workshops and seminars
-- Improved communication and teamwork skills through event coordination
-
----
-
-# 🎯 Current Focus
-
-Currently focusing on becoming a well-rounded Software Engineer by strengthening my knowledge in:
-
-- ⚛️ Advanced React
-- 🌐 Backend Development (Node.js & Express)
-- 🗄️ SQL & Databases
-- 📊 Data Analytics
-- 🤖 Machine Learning
-- 🧠 System Design
-- ☁️ Cloud Computing
-
----
-
-# 🛣️ 2026 Learning Roadmap
-
-## 💻 Software Engineering
-
-- Advanced JavaScript
-- Design Patterns
-- Backend Architecture
-- Authentication & Authorization
-- REST APIs
-- System Design
-
----
-
-## ⚛️ Frontend Development
-
-- Advanced React Patterns
-- Performance Optimization
-- Next.js
-- TypeScript
-- UI/UX Best Practices
-
----
-
-## 🌐 Backend Development
-
-- Node.js
-- MongoDB
-- SQL
-- JWT Authentication
-- API Security
-
----
-
-## 📊 Data Analytics
-
-- Data Cleaning
-- Data Wrangling
-- SQL for Analytics
-- Dashboard Development
-- Power BI *(Future Goal)*
-
----
-
-## 🤖 Machine Learning
-
-- Regression
-- Classification
-- Decision Trees
-- Random Forest
-- Model Evaluation
-- Feature Engineering
-- Deep Learning Fundamentals
-
----
-
-## ☁️ Cloud & DevOps
-
-- GitHub Actions
-- Docker
-- AWS
-- CI/CD
-- Deployment Best Practices
-
----
-
-# 🎯 Career Goals
-
-My goal is to become a Software Engineer who can build scalable applications and solve real-world problems through software and data.
-
-I'm actively preparing for opportunities in:
-
-- 💻 Software Engineering
-- ⚛️ Frontend Development
-- 🌐 Full Stack Development
-- 📊 Data Analytics
-- 🤖 Machine Learning
-- 📈 Data Science
-
-Long-term, I aim to contribute to products that impact millions of users while continuously improving my technical and problem-solving skills.
-
----
-
-# 💼 Open To Opportunities
-
-I'm currently looking for:
-
-- 💼 Software Engineering Internships
-- ⚛️ Frontend Developer Internships
-- 🌐 Full Stack Developer Internships
-- 📊 Data Analyst Internships
-- 🤖 Machine Learning Internships
-- 📈 Data Science Internships
-
-📍 **Open to Remote, Hybrid, and On-site opportunities.**
-
----
-
-# 📚 What I'm Currently Learning
-
-### 📖 Frontend
-
-- Advanced React
-- React Performance Optimization
-- TypeScript *(Upcoming)*
-
----
-
-### 🌐 Backend
-
-- Node.js
-- MongoDB
-- SQL
-
----
-
-### 📊 Data Science
-
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Statistics
-- Exploratory Data Analysis
-
----
-
-### 🤖 Machine Learning
-
-- Scikit-learn
-- Supervised Learning
-- Decision Trees
-- Regression
-- Classification
-- Model Evaluation
-
----
-
-### 🧩 Data Structures & Algorithms
-
-- Dynamic Programming
-- Graph Algorithms
-- Advanced Trees
-- Greedy Algorithms
-- Bit Manipulation
-- Competitive Programming
-
----
-
-# 🌱 Beyond Coding
-
-Outside of coding, I enjoy:
-
-- 📚 Learning new technologies
-- 🧩 Solving algorithmic challenges
-- 🤝 Collaborating with developers
-- 🎨 Designing clean and intuitive user interfaces
-- 🚀 Building projects that solve real-world problems
-
----
-
-# ❤️ Open to Collaborate
-
-I'm always excited to collaborate on:
-
-- 💻 Software Engineering Projects
-- ⚛️ React Applications
-- 🌐 Full Stack Projects
-- 📊 Data Analytics Projects
-- 🤖 Machine Learning Projects
-- 🚀 Open Source Contributions
-- 🎓 Student Developer Communities
-
-If you have an interesting idea or project, feel free to connect with me!
----
-
-# ⚡ Engineering Philosophy
-
-> **Write code that is easy to understand.**
-
-> **Build software that solves real-world problems.**
-
-> **Optimize for performance, scalability, and maintainability.**
-
-> **Keep learning because technology never stops evolving.**
-
----
-
-# 🚀 My Development Principles
-
-- 📖 Never Stop Learning
-- 🧩 Think Before Coding
-- 🚀 Build Real Projects
-- 📚 Master Fundamentals
-- 🤝 Collaborate & Share Knowledge
-- ⚡ Write Clean Code
-- 📈 Improve Every Day
-
----
-
-# 💡 Fun Facts
-
-- 🧩 I enjoy solving DSA problems almost every day.
-- ⚛️ React is currently my favorite frontend framework.
-- 📊 I enjoy exploring datasets and finding meaningful insights.
-- 🤖 I'm fascinated by Machine Learning and AI.
-- 🌱 I believe consistency beats motivation.
-- ☕ Debugging with music is one of my favorite coding rituals.
-
----
-
-
-# 💙 Thanks for Visiting!
-
-<p align="center">
-
-### ⭐ If you like my work, consider starring my repositories.
-
-### 🤝 Let's connect, collaborate, and build amazing things together!
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e73df,100:1cc88a&height=120&section=footer"/>
-
-</p>
+</div>
