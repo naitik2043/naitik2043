@@ -10,7 +10,7 @@ Software Engineer • Frontend Developer • AI & Data Science Enthusiast
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Frontend+Developer;Python+Developer;Machine+Learning+Enthusiast;AI+%26+LLM+Explorer;834+DSA+Problems+Solved;1740+Peak+LeetCode+Rating;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Frontend+Developer;Python+Developer;Machine+Learning+Enthusiast;AI+%26+LLM+Explorer;834+Problems+Solved;1740+Peak+LeetCode+Rating;Always+Learning+Something+New"/>
 
 </p>
 
