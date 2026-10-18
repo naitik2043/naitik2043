@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Naitik%20Gupta&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=CSE%20Student%20%7C%20AI%20Systems%20%7C%20Applied%20ML%20%26%20Full-Stack%20Development&descAlignY=58&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Naitik%20Gupta&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20|%20Frontend%20Developer%20|%20Data%20Science%20Enthusiast&descAlignY=58&descSize=18"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Naitik Gupta</h1>
