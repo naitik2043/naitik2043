@@ -10,7 +10,7 @@ Software Engineer • Frontend Developer • AI & Data Science Enthusiast
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Frontend+Developer;Python+Developer;Machine+Learning+Enthusiast;AI+%26+LLM+Explorer;700%2B+DSA+Problems+Solved;1700%2B+LeetCode+Rating;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Frontend+Developer;Python+Developer;Machine+Learning+Enthusiast;AI+%26+LLM+Explorer;834+DSA+Problems+Solved;1740+Peak+LeetCode+Rating;Always+Learning+Something+New"/>
 
 </p>
 
@@ -62,7 +62,7 @@ class NaitikGupta:
 - 🌐 Currently learning **Backend Development** using **Flask** and **Express.js**.
 - 📊 Exploring **Data Science, Machine Learning, AI, and Large Language Models (LLMs)**.
 - ☁️ **AWS Certified Cloud Practitioner**.
-- 🧩 Solved **700+ DSA Problems** with a **1700+ LeetCode Rating**.
+- 🧩 Solved **834 problems** with a **peak LeetCode rating of 1740**.
 - 🚀 Always learning, building real-world projects, and improving every day.
 - 🤝 Open to **Software Engineering Internship** opportunities.
 
@@ -116,14 +116,14 @@ class NaitikGupta:
 <p align="center">
 
 <a href="https://leetcode.com/u/Naitik_Gupta/">
-<img src="https://img.shields.io/badge/LeetCode-1700%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-1740%20Peak-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://codeforces.com/profile/Naitik_Gupta">
 <img src="https://img.shields.io/badge/Codeforces-Newbie-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/users/naitik_gupta">
+<a href="https://www.codechef.com/users/Naitik_Gupta">
 <img src="https://img.shields.io/badge/CodeChef-2★-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
@@ -137,7 +137,7 @@ class NaitikGupta:
 
 | 🧩 DSA Problems | ⭐ LeetCode | 💻 Focus |
 |:---------------:|:----------:|:--------:|
-| **700+** | **1700+ Rating** | Software Engineering • AI • Data Science |
+| **834** | **1740 Peak Rating** | Software Engineering • AI • Data Science |
 
 </div>
 
@@ -170,11 +170,11 @@ Python • Pandas • NumPy • Matplotlib • Scikit-Learn • TensorFlow
 
 ## 🏫 ReUnix
 
-A Full Stack Alumni Connection Platform that helps students connect with alumni for mentorship, networking and career opportunities.
+A responsive alumni networking frontend with role-based student, alumni, and admin demo dashboards for mentorship, jobs, events, and community.
 
 ### ⚡ Tech Stack
 
-React • Node.js • Express • MongoDB
+React • TypeScript • React Router • Tailwind CSS
 
 <br>
 
@@ -204,7 +204,7 @@ React • Tailwind CSS • Framer Motion
 <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="https://github.com/naitik2043/Portfolio">
+<a href="https://github.com/naitik2043/naitik-portfolio">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -240,8 +240,8 @@ React • Redux Toolkit • Tailwind CSS • Vite
 
 # 🏅 Achievements
 
-- 🏆 Solved **700+ DSA Problems** across multiple coding platforms.
-- ⭐ Achieved a **1700+ LeetCode Rating**.
+- 🏆 Solved **834 problems** across the coding platforms linked on Codolio.
+- ⭐ Reached a **peak LeetCode contest rating of 1740**.
 - 💻 Built **Full Stack, Frontend, and AI/Data Science** projects.
 - ☁️ Earned the **AWS Certified Cloud Practitioner** certification.
 - 🚀 Continuously learning **AI, Machine Learning, Cloud, and Modern Web Technologies**.
