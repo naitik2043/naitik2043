@@ -10,7 +10,7 @@ Software Engineer • Frontend Developer • AI & Data Science Enthusiast
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Frontend+Developer;Python+Developer;Machine+Learning+Enthusiast;AI+%26+LLM+Explorer;834+Problems+Solved;1740+Peak+LeetCode+Rating;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Frontend+Developer;Python+Developer;Machine+Learning+Enthusiast;AI+%26+LLM+Explorer;800%2B+DSA+Problems+Solved;1740+Peak+LeetCode+Rating;Always+Learning+Something+New"/>
 
 </p>
 
@@ -62,7 +62,7 @@ class NaitikGupta:
 - 🌐 Currently learning **Backend Development** using **Flask** and **Express.js**.
 - 📊 Exploring **Data Science, Machine Learning, AI, and Large Language Models (LLMs)**.
 - ☁️ **AWS Certified Cloud Practitioner**.
-- 🧩 Solved **834 problems** with a **peak LeetCode rating of 1740**.
+- 🧩 Solved **800+ DSA problems** with a **peak LeetCode rating of 1740**.
 - 🚀 Always learning, building real-world projects, and improving every day.
 - 🤝 Open to **Software Engineering Internship** opportunities.
 
@@ -137,7 +137,7 @@ class NaitikGupta:
 
 | 🧩 DSA Problems | ⭐ LeetCode | 💻 Focus |
 |:---------------:|:----------:|:--------:|
-| **834** | **1740 Peak Rating** | Software Engineering • AI • Data Science |
+| **800+** | **1740 Peak Rating** | Software Engineering • AI • Data Science |
 
 </div>
 
@@ -240,7 +240,7 @@ React • Redux Toolkit • Tailwind CSS • Vite
 
 # 🏅 Achievements
 
-- 🏆 Solved **834 problems** across the coding platforms linked on Codolio.
+- 🏆 Solved **800+ DSA problems** across the coding platforms linked on Codolio.
 - ⭐ Reached a **peak LeetCode contest rating of 1740**.
 - 💻 Built **Full Stack, Frontend, and AI/Data Science** projects.
 - ☁️ Earned the **AWS Certified Cloud Practitioner** certification.
