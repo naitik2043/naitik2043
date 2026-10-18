@@ -78,7 +78,7 @@ class NaitikGupta:
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&perline=4"/>
 
-### Backend & Databases
+### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,postgresql,mongodb,supabase&perline=4"/>
 
 ### Data Science & AI
